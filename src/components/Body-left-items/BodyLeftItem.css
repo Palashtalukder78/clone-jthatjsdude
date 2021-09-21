@@ -1,0 +1,11 @@
+.item{
+    margin: 15px 0;
+}
+.title{
+    font-size: 25px;
+    color: blueviolet;
+}
+.item-button:hover{
+    background-color: rgb(194, 191, 179);
+    color: darkblue;
+}

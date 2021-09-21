@@ -1,0 +1,12 @@
+#banner-part{
+    background-color: rgb(233, 243, 240);
+}
+#banner-part h1{
+    font-weight: 500;
+}
+#banner-part p{
+    font-size: 20px;
+}
+#banner-part button{
+    background-color: rgb(175, 100, 245);
+}
